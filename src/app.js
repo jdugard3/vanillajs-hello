@@ -15,15 +15,16 @@ window.onload = () => {
 
 let generateExcuse = () => {
   let pronoun = ["A", "The"];
-  let subject = ["Sith Lord", "Boddy", "mailman", "skunk", "driver"];
+  let subject = ["Sith Lord", "Jedi", "mailman", "skunk", "driver", "baby"];
   let action = [
     "cut my",
     "kicked my",
-    "crushed my",
+    "squished my",
     "bit my",
     "yelled at my",
     "stared at my",
-    "stole my"
+    "stole my",
+    "kissed my"
   ];
   let possession = ["homework", "lightsaber", "car", "nose", "beard"];
   let where = [
@@ -31,7 +32,7 @@ let generateExcuse = () => {
     "on my yard",
     "at the zoo",
     "on my neck",
-    "on my car",
+    "at Walmart",
     "in my house"
   ];
 
